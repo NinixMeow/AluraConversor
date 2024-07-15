@@ -6,3 +6,6 @@ Funcionalidad:
 1. Convierte monedas de diferentes 
 
 Autor del proyecto: Claudia Jimenez
+
+![Badge-Conversor](https://github.com/user-attachments/assets/6ac074b7-1775-4982-b6aa-8173c1c667cc)
+
